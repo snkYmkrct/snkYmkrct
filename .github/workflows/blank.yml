@@ -34,3 +34,8 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+      # Test the snake    
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.0.0-rc.2
+
