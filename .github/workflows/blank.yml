@@ -37,7 +37,7 @@ jobs:
           
       # Test the snake    
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v2.0.0-rc.2
+      - uses: Platane/snk@v2
  
         with:
           # github user name to read the contribution graph from (**required**)
