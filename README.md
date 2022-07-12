@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![hmm](https://github.com/snkYmkrct/snkYmkrct/blob/main/Images/github-header-image.png)
 
 <!--
