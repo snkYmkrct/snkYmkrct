@@ -1,4 +1,4 @@
-![hmm](https://github.com/snkYmkrct/snkYmkrct/blob/main/Images/github-header-image.png)
+![hmm](https://github.com/snkYmkrct/snkYmkrct/blob/main/Images/github_banner_color.png)
 
 <!--
 **snkYmkrct/snkYmkrct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
