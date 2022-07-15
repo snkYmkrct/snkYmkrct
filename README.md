@@ -23,3 +23,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snkYmkrct&show_icons=true&theme=tokyonight  )
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snkYmkrct&theme=tokyonight)](https://git.io/streak-stats)
+
