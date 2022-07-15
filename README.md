@@ -1,6 +1,7 @@
 ![Banner image](https://github.com/snkYmkrct/snkYmkrct/blob/main/Images/github_banner_blue_cat_left.png)
 
 ### About me:
+Aspirant maker and creator. Software developer. Perpetual learner. Cat butler. <br><br>
 <img src='https://forthebadge.com/images/badges/powered-by-coffee.svg' alt='coffee' height='25'>   <img src='https://forthebadge.com/images/badges/contains-cat-gifs.svg' alt='cats' height='25'>   <img src='https://github.com/snkYmkrct/snkYmkrct/blob/main/Images/is_ND_final.png' alt='ND' height='25'>
 
 ### Work: 
