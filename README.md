@@ -17,6 +17,8 @@
 [<img src='https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='25'>](mailto:snkymkrct@gmail.com)
 [<img src='https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='25'>](https://twitter.com/snkYmkrct)   
 
+![snake gif](https://github.com/snkYmkrct/snkYmkrct/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snkYmkrct&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,4 +26,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snkYmkrct&show_icons=true&theme=tokyonight  )
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snkYmkrct&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
+
 
