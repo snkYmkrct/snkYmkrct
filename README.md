@@ -10,7 +10,8 @@ Aspirant maker and creator. Software developer. Perpetual learner. Cat butler. <
 <img src='https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='vscode' height='25'>   
 
 ### See my published projects:
-[<img src='https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCbqU6s09NN5X13QjUv1F58A)   [<img src='https://img.shields.io/badge/instructables-FABF15?style=for-the-badge&logo=instructables&logoColor=black' alt='instructables'  height='25'> ](https://www.instructables.com/member/snkYmkrct/)   [<img src='https://img.shields.io/badge/Hackaday-000000?style=for-the-badge&logo=hackaday&logoColor=white' alt='hackaday' height='25'>](https://hackaday.io/snkYmkrct)   [<img src='https://img.shields.io/badge/Hackster-2E9FE6?style=for-the-badge&logo=hackster&logoColor=white' alt='hackster' height='25'>](https://www.hackster.io/snkYmkrct) 
+[<img src='https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' height='25'>](https://www.youtube.com/@snkYmkrct
+)   [<img src='https://img.shields.io/badge/instructables-FABF15?style=for-the-badge&logo=instructables&logoColor=black' alt='instructables'  height='25'> ](https://www.instructables.com/member/snkYmkrct/)   [<img src='https://img.shields.io/badge/Hackaday-000000?style=for-the-badge&logo=hackaday&logoColor=white' alt='hackaday' height='25'>](https://hackaday.io/snkYmkrct)   [<img src='https://img.shields.io/badge/Hackster-2E9FE6?style=for-the-badge&logo=hackster&logoColor=white' alt='hackster' height='25'>](https://www.hackster.io/snkYmkrct) 
 
 
 
