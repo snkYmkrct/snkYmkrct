@@ -6,7 +6,7 @@ Aspirant maker and creator. Software developer. Perpetual learner. Cat butler. <
 
 ### Work: 
 <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='c language' height='25'>   <img src='https://github.com/snkYmkrct/snkYmkrct/blob/main/Images/CircuitPython_logo.png' alt='circpython' height='25'>   <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='python' height='25'>   
-<img src='https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white' alt='stm32' height='25'>   <img src='https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white' alt='adafruit' height='25'>   <img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white' alt='arduino' height='25'>   <img src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white' alt='raspberrypi' height='25'>   
+<img src='https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white' alt='stm32' height='25'>   <img src='https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white' alt='adafruit' height='25'>   <img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white' alt='arduino' height='25'>     
 <img src='https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='vscode' height='25'>   
 
 ### See my published projects:
@@ -18,8 +18,6 @@ Aspirant maker and creator. Software developer. Perpetual learner. Cat butler. <
 ### How to reach me: 
 [<img src='https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='25'>](mailto:snkymkrct@gmail.com)
 [<img src='https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='25'>](https://twitter.com/snkYmkrct)   
-
-![snake gif](https://github.com/snkYmkrct/snkYmkrct/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
