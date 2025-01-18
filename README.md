@@ -11,23 +11,18 @@ Maker, engineer, software developer. Perpetual learner. Cat butler 🐈‍⬛�
 
 ### See my published projects:
 [<img src='https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' height='25'>](https://www.youtube.com/@snkYmkrct
-)   [<img src='https://img.shields.io/badge/instructables-FABF15?style=for-the-badge&logo=instructables&logoColor=black' alt='instructables'  height='25'> ](https://www.instructables.com/member/snkYmkrct/)   [<img src='https://img.shields.io/badge/Hackaday-000000?style=for-the-badge&logo=hackaday&logoColor=white' alt='hackaday' height='25'>](https://hackaday.io/snkYmkrct)   [<img src='https://img.shields.io/badge/Hackster-2E9FE6?style=for-the-badge&logo=hackster&logoColor=white' alt='hackster' height='25'>](https://www.hackster.io/snkYmkrct) 
-
-
+)   [<img src='https://img.shields.io/badge/instructables-FABF15?style=for-the-badge&logo=instructables&logoColor=black' alt='instructables'  height='25'> ](https://www.instructables.com/member/snkYmkrct/)   
 
 ### How to reach me: 
-[<img src='https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='25'>](mailto:snkymkrct@gmail.com)
-[<img src='https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='25'>](https://twitter.com/snkYmkrct)   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:snkymkrct@gmail.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/snkymkrct.bsky.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://fosstodon.org/@snkYmkrct)
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snkYmkrct&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snkYmkrct&show_icons=true&theme=tokyonight  )
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snkYmkrct&theme=tokyonight)](https://git.io/streak-stats)
-
-
 
 
 
